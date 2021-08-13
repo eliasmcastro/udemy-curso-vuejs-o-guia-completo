@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  Vue.js é um framework Javascript fantástico para construir aplicações Frontend! Vue.js mistura o melhor do Angular + React
+  Vue.js é um framework Javascript fantástico para construir aplicações Frontend
 </p>
 
 <p align="center">Por Leonardo Moura Leitao - Udemy</p>
@@ -22,6 +22,12 @@
 
 <p align="center">
   <img alt="O Matador de Mostro" src=".github/o_matador_de_mostro.png" width="90%">
+</p>
+
+<p align="center">Todo</p>
+
+<p align="center">
+  <img alt="Todo" src=".github/todo.png" width="90%">
 </p>
 
 ## Como executar o projeto
@@ -40,6 +46,13 @@ git clone https://github.com/eliasmcastro/udemy-curso-vuejs-o-guia-completo.git
 
 - Entrar na pasta`udemy-curso-vuejs-o-guia-completo/01-o-matador-de-mostro`
 - Abrir o arquivo `index.html` no seu navegador de preferência para ver o resultado
+
+### Projeto Todo
+
+- Entrar na pasta`udemy-curso-vuejs-o-guia-completo/02-todo`
+- Executar `npm install` para instalar as dependências do projeto
+- Executar `npm run serve` para iniciar o servidor de desenvolvimento
+- Acessar http://localhost:8080
 
 ## Anotações
 
@@ -65,9 +78,6 @@ git clone https://github.com/eliasmcastro/udemy-curso-vuejs-o-guia-completo.git
 ### Criando um projeto
 
 - Executar `vue create nomeprojeto` para criar o o projeto
-  - A pasta public é onde fica todos os arquivos acessíveis pelos usuários finais
-  - A pasta src é onde fica todo o código da nossa aplicação
-  - O arquivo package.json serve para guardar as informações de versões das dependências do projeto
 - Executar `npm run serve` para inicializar o servidor em http://localhost:8080
 
 ## Conteúdo do curso
