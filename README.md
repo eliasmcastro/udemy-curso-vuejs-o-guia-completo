@@ -44,12 +44,12 @@ git clone https://github.com/eliasmcastro/udemy-curso-vuejs-o-guia-completo.git
 
 ### Projeto O Matador de Mostro
 
-- Entrar na pasta`udemy-curso-vuejs-o-guia-completo/01-o-matador-de-mostro`
+- Entrar na pasta `01-o-matador-de-mostro`
 - Abrir o arquivo `index.html` no seu navegador de preferência para ver o resultado
 
 ### Projeto Todo
 
-- Entrar na pasta`udemy-curso-vuejs-o-guia-completo/02-todo`
+- Entrar na pasta `02-todo`
 - Executar `npm install` para instalar as dependências do projeto
 - Executar `npm run serve` para iniciar o servidor de desenvolvimento
 - Acessar http://localhost:8080
